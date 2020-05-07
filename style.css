@@ -1,0 +1,40 @@
+img {
+    height: 250px
+}
+
+.container {
+    width: 50%;
+    margin-bottom: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    color: blueviolet;
+}
+
+.footer {
+    width 100%;
+    height: 250px;
+    border: 2px solid black;
+    bottom: 0;
+    position: absolute;
+    margin: 0;
+}
+
+.header-1 {
+    color: blue;
+  }
+  
+  #paragraph-1 {
+    color: rgb(217, 54, 49);
+  }
+  
+  #paragraph-2 {
+    color: #28ac5c;
+  }
+  
+  /* We used 3 different ways to specify color:
+  the word "blue", rgb selectors and hex codes */
